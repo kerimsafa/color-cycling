@@ -65,8 +65,9 @@ See [`LICENSE.txt`](LICENSE.txt) for full details.
 **Color Cycling for Aseprite**  
 Created by **Kerim Safa**  
 Website: [https://www.kerimsafa.com](https://www.kerimsafa.com)  
-Project page: [https://kerimsafa.itch.io/color-cycling](https://kerimsafa.itch.io/color-cycling)  
 X: [https://x.com/kerimsafa](https://x.com/kerimsafa)
+Project page: [https://kerimsafa.itch.io/color-cycling](https://kerimsafa.itch.io/color-cycling)  
+Source: [https://github.com/kerimsafa/color-cycling](https://github.com/kerimsafa/color-cycling)
 
 
 ---
