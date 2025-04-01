@@ -5,12 +5,13 @@
 
   Color Cycling for Aseprite
 
+  Author: Kerim Safa
   Version: 1.0
   License: MIT 
-  Author: Kerim Safa
   Website: https://www.kerimsafa.com
-  Project page: https://kerimsafa.itch.io/color-cycling
   X: https://x.com/kerimsafa
+  Project page: https://kerimsafa.itch.io/color-cycling
+  Source: https://github.com/kerimsafa/color-cycling
   
   Description:
   Color cycling tool for Aseprite designed to simulate classic DPaint-style palette shifting.
